@@ -37,7 +37,7 @@ public class DoctorController implements ControlledScreen {
 	ObservableList<Integer> IDList = FXCollections.observableArrayList();
 	@FXML
 	TextField txtpatientName = new TextField();
-	@FXML
+	@FXML 
 	TextField txtpatientAge = new TextField();
 	@FXML
 	TextField txtpatientAddress = new TextField();
