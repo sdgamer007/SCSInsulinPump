@@ -1,2 +1,0 @@
-# Safety-Critical-System
-The software is designed for a diabetic patient to maintain his/her's blood pressure  at the normal level. This throws constant alarms when ever it predicts any kind of danger before an hour of seriousness of patients condition that he/she may encounter. This software has three screens 1. Patient screen (Manual Mode, Automatic Mode), 2. Doctor Screen, 3. Helper screen. The abstract and the paper are attached as a PDF for the detailed and explicit reference of the project.
